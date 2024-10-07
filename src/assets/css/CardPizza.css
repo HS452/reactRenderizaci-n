@@ -1,0 +1,27 @@
+
+.card-img-top{
+   height: 160px;
+   width: 210px; 
+   align-items: center; 
+   
+
+}
+
+#carta{
+   display: flex;
+   flex-wrap:nowrap;
+   padding: 10px;
+   margin-top: 5rem;
+   height: 560px;
+   width: 400px;
+   margin-left: 100px;
+   margin-right: 40px;
+   margin-bottom: 160px;
+   
+}
+.card-body{
+display:grid;
+gap: 10px;
+margin-bottom: 15px;
+   
+}

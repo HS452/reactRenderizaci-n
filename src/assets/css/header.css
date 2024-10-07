@@ -1,0 +1,21 @@
+#fotoPrincipal{
+    background-image: url('../img/imagen3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(10, 0, 0, 0.5); 
+    background-blend-mode: overlay;
+    min-height: 215px;
+    padding: 6px;
+    margin-right: -109px;
+    
+
+}
+.titulo{
+text-align: center;
+color: rgb(224, 238, 250);
+}
+.subtitulo{
+    text-align: center;
+    color: rgb(224, 238, 250);
+    }
+   
